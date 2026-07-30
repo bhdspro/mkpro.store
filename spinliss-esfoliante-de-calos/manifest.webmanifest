@@ -1,0 +1,15 @@
+{
+  "name": "SpinLiss | MKPRO STORE",
+  "short_name": "SpinLiss",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff7f9",
+  "theme_color": "#fff4f7",
+  "icons": [
+    {
+      "src": "assets/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

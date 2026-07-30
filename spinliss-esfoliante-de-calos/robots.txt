@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mkpro.store/spinliss-esfoliante-de-calos/sitemap.xml
